@@ -26,7 +26,7 @@ $(document).ready(function(){
    
 }
 	if (my_text.length > 28) {
-		alert("seriously, that is the longest dumbest name to put on a shopping list. Abreviate!")
+		alert("seriously, that is the longest dumbest name to put on a shopping list.")
 
 	}
 	});
