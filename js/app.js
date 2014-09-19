@@ -47,7 +47,7 @@ $(document).ready(function(){
 
 			if (my_text!="")
 			{
-				$("#content").append(my_item);
+				$("#inner").append(my_item);
 				$("#entry").val("");
 			}
 
